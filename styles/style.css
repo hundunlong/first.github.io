@@ -1,0 +1,48 @@
+/*p,ol,li{
+    color:red;
+    width: 500px;
+    border: 1px solid black;
+}
+#hehele{
+    color: red;
+}
+
+.hehele{
+    color:aqua;
+}
+
+a:hover{
+    color: darkgreen;
+}
+*/
+
+li{
+    letter-spacing: 0px;
+}
+
+html {
+    background-color: #FF0095;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #001EFF;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1{
+    margin: 0;
+    padding: 20px 0; 
+    color: #FF0095;
+    text-align: center;
+    text-shadow: 0px 9px 8px red;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
